@@ -1,0 +1,54 @@
+body{
+    background-image: url(imagens/fundo.png);
+}
+
+#coluna{
+    width: 65%;
+    background-color: rgb(206, 206, 206);
+}
+
+#capa{
+    width: 100%;
+
+}
+
+#menu{
+    
+    background-color: rgb(181, 181, 181);
+    padding: 20px;
+
+}
+
+a{
+    padding: 10px;
+    color: rgb(55, 55, 55);
+    font-size: 26px;
+    text-decoration: none;
+    transition-duration: 0.5s;
+
+
+}
+
+a:hover{
+    padding: 12px;
+    font-size: 28px;
+
+    color: rgb(229, 216, 200);
+    background-color: rgb(43, 43, 43);
+    border-radius: 3px;
+}
+
+.texto{
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(32, 32, 32);
+    
+
+}
+
+.fotocampanha{
+    border: 5px gray;
+    border-style: outset;
+    align-items: center;
+
+}
